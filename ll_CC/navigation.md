@@ -11,7 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+[gimmick:theme](united)
 
 
 <!--
@@ -19,8 +19,9 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+[Home](pages/home.md)
+[Services](pages/services.md)
+[Contact Us](pages/contact.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 

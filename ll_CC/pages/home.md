@@ -1,4 +1,4 @@
-# About Page
+# Home
 
 
 ## Section 1
